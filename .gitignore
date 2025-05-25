@@ -1,0 +1,5 @@
+/.venv
+/local-tests
+/scrape_old.py
+/scraped/
+prompt.txt
