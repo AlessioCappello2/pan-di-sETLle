@@ -18,4 +18,4 @@ The point is to extract the biscuits' data, transform, clean and feed them to a 
 ![Second page of dashboard: ingredients](images/mb3.png)
 
 ## Fun fact: why this name?
-Well, [Pan di Stelle](https://www.pandistelle.it/) is one of the most popular biscuits from Mulino Bianco, so you can figure it out why this name.
+Well, [Pan di Stelle](https://www.pandistelle.it/) is one of the most popular biscuits from Mulino Bianco, so you can figure out why this name.
